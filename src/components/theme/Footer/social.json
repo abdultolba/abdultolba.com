@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/abdultolba",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "link": "https://twitter.com/abdultolba_",
+    "icon": "/icons/twitter.svg"
+  }
+]
