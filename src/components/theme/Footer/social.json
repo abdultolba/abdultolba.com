@@ -6,9 +6,21 @@
     "icon": "/icons/github.svg"
   },
   {
+    "id": 2,
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/in/abdultolba",
+    "icon": "/icons/linkedin.svg"
+  },
+  {
     "id": 3,
     "name": "Twitter",
     "link": "https://twitter.com/abdultolba_",
     "icon": "/icons/twitter.svg"
+  },
+  {
+    "id": 4,
+    "name": "Instagram",
+    "link": "https://instagram.com/abdultolba.dev",
+    "icon": "/icons/instagram.svg"
   }
 ]
